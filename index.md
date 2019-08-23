@@ -1,3 +1,6 @@
 # Welcome to my blog
 
-I'm glad you are here. I plan to talk about ...
+## Not sure how you found it but it's good that you're here, we have much to discuss.
+
+##### My first post!
+###### 
