@@ -1,5 +1,7 @@
+---
 title: "Day 1"
-date: 2019-08-23
+date: 2019-08-23-
+---
 
 Always remember to sync all information across workplaces.
 
